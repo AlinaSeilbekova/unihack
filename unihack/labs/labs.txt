@@ -1,0 +1,14 @@
+lab1 - Javascript - Authentication
+lab2 - Javascript - Source
+lab3 - Javascript - Authentication 2
+lab4 - Javascript - Obfuscation 1
+lab5 - HTML - Source code
+lab6 - HTTP - User-agent
+lab7 - Weak password
+lab8 - HTTP - Directory indexing
+lab9 - You know phpBB ?
+
+
+рассмотреть:
+HTTP - Cookies
+File upload - Double extensions
